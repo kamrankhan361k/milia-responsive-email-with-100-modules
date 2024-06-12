@@ -1,0 +1,23 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+## [1.0.1] - 2019-07-01
+### Added
+- Support for Retina Images
+
+### Fixed
+- Unnecessary parts of HTML
+
+### Updated
+- Compatible with Stampready new builder version 
+
+## [1.0.2] - 2020-07-20
+### Added
+- Modules Composer 2 - Our new email builder!
+- Export options for 30 Email Service Providers
+
+### Fixed
+- Unnecessary parts of HTML
+
+### Updated
+- All modules updated and is compatible with Modules Composer 2!
